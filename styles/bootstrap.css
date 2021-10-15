@@ -1,0 +1,31 @@
+.cat-img {
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.cat-img2 {
+    width: 200px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.cat-img3 {
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.card {
+    margin-top: 30px;
+}
+
